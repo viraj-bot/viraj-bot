@@ -19,7 +19,7 @@
  
 **📖 Languages Statistics**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-bot&theme=algolia&layout=compact)](https://github.com/viraj-bot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-bot&theme=algolia&langs_count=8&layout=compact)](https://github.com/viraj-bot/github-readme-stats)
 
 
 <!---
