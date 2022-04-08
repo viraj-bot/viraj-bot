@@ -6,7 +6,7 @@
 
 - 💪🏻 I'm currently putting my efforts in providing best IT services and learning new technologies to keep my knowledge updated.
 
-- 👀 I’m interested in C, C++, Java, Python, Web development, Software Development, Android development and on a way to be an expert on these fields.
+- 👀 I’m interested in Java Software Development, Web development, Android development and on a way to be an expert on these fields.
 
 - 🌱 I’m currently enhancing my CP, DSA to acchieve expertise in these fields.
 
