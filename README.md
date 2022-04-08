@@ -1,6 +1,6 @@
 # **Hello There, I'm Viraj** 👋🏻
 
-# About Me
+** About Me : **
 
 - **🧑🏻‍🎓 I’m B.Tech Information Technology Student at Motilal Nehru National Institute of Technology Allahabad, Prayagraj (MNNITA).**
 
