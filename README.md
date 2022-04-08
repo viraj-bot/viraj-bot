@@ -15,7 +15,7 @@
 
 ![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj-bot&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-bot)](https://github.com/viraj-bot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.algolia.app/api/top-langs/?username=viraj-bot)](https://github.com/viraj-bot/github-readme-stats)
 <!---
 viraj-bot/viraj-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
