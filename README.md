@@ -13,7 +13,7 @@
 - ✉️ You can reach me via email : vir7196@gmail.com
 
 
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj-bot&show_icons=true&theme=algolica)
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj-bot&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-bot)](https://github.com/viraj-bot/github-readme-stats)
 <!---
