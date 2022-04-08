@@ -12,6 +12,13 @@
 
 - ✉️ You can reach me via email : vir7196@gmail.com
 
+**My Projects :**
+
+- Pixeed :  ⭐⭐⭐⭐First Runner Up in Techno-Management Fest Mnnit ⭐⭐⭐⭐ The only team to dare to take upon themselves the task to make an image editor from scratch. Although it might not be a match for its ubiquitous contemporaries, it has all its basic features covered and easily accessible for even a new user.
+
+- Ampify Music : Ampify is a Java based music streaming application cum media
+player with the functionalities of local music and video playing , Subtitles , Playlists , Equalizer and User friendly UI and much
+more. 
 
 **⚙️ Github Statistics**
 
