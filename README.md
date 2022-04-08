@@ -1,5 +1,5 @@
-# Hello, I'm Viraj 👋🏻
-- 👋 Hi, I’m B.Tech Information Technology Student at Motilal Nehru National Institute of Technology Allahabad, Prayagraj (MNNITA).
+# Hello There, I'm Viraj 👋🏻
+- 👋 I’m B.Tech Information Technology Student at Motilal Nehru National Institute of Technology Allahabad, Prayagraj (MNNITA).
 - 💪 I'm currently putting my efforts in providing best IT services and learning new technologies to keep my knowledge updated.
 - 👀 I’m interested in C, C++, Java, Python, Web development, Software Development, Android development and on a way to be an expert on these fields.
 - 🌱 I’m currently enhancing my CP, DSA to acchieve expertise in these fields.
