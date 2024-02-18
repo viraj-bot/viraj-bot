@@ -1,4 +1,4 @@
-# **Hello There, I'm Viraj** 👋🏻
+# **Greetings, This is Viraj** 👋🏻
 
 **👧🏻 About Me :**
 
