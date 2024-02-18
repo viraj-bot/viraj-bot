@@ -20,9 +20,10 @@
 player with the functionalities of local music and video playing , Subtitles , Playlists , Equalizer and User friendly UI and much
 more. 
 
-#**⚙️ Github Statistics**
+<!---#**⚙️ Github Statistics**
 
 #![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=viraj-bot&show_icons=true&theme=algolia)
+--->
  
 **📖 Languages Statistics**
 
